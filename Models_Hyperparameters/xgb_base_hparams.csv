@@ -1,0 +1,2 @@
+colsample_bytree,early_stopping_rounds,gamma,learning_rate,max_depth,min_child_weight,n_estimators,subsample
+0.75,50,25,0.05,2,32,1000,0.8
